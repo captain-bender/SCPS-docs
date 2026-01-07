@@ -5,15 +5,15 @@ This repository contains documentation and notes for the SCPS project.
 Contents
 \
 [Part2]
-- angle_wrap.md — Notes about angle wrapping calculations.
-- p-controller_functionality.md — Details about the P-controller behavior.
-- setup.md — Setup and installation instructions.
-- triangle.md — Triangle-related calculations and diagrams.
-- virtual_sensors_functionality.md — Virtual sensor descriptions and usage.
+- [angle_wrap.md](angle_wrap.md) — Notes about angle wrapping calculations.
+- [p-controller_functionality.md](p-controller_functionality.md) — Details about the P-controller behavior.
+- [setup.md](setup.md) — Setup and installation instructions.
+- [triangle.md](triangle.md) — Triangle-related calculations and diagrams.
+- [virtual_sensors_functionality.md](virtual_sensors_functionality.md) — Virtual sensor descriptions and usage.
 
 \
 [Part 3]
-- screenshots.md — Screenshots and visual references.
+- [screenshots.md](screenshots.md) — Screenshots and visual references.
 
 How to use
 
