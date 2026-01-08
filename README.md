@@ -14,6 +14,7 @@ Contents
 \
 [Part 3]
 - [screenshots.md](screenshots.md) — Screenshots and visual references.
+- [mosquitto_encrypted_passwords.md](mosquitto_encrypted_passwords) - How to encrypt the password for mosquitto broker
 
 How to use
 
